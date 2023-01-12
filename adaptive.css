@@ -1,0 +1,40 @@
+@media (min-width: 1440px) {
+	body{
+		font-size: 28px;
+	}
+	#main .main_inner h1{
+		font-size: 100px;
+	}
+}
+@media (min-width: 1080px) {
+	body{
+		font-size: 20px;
+	}
+	#main .main_inner h1{
+		font-size: 100px;
+	}
+}
+@media (min-width: 768px) {
+	body{
+		font-size: 18px;
+	}
+	#main .main_inner h1{
+		font-size: 100px;
+	}
+}
+@media (min-width: 425px) {
+	body{
+		font-size: 16px;
+	}
+	#main .main_inner h1{
+		font-size: 100px;
+	}
+}
+@media (min-width: 320px) {
+	body{
+		font-size: 12px;
+	}
+	#main .main_inner h1{
+		font-size: 100px;
+	}
+}
